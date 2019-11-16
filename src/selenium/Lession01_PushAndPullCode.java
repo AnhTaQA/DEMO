@@ -22,6 +22,7 @@ public class Lession01_PushAndPullCode {
   @Test
   public void f() {
 	  System.out.println("Start test");
+	  System.out.println("Start test");
   }
 
   @AfterClass
